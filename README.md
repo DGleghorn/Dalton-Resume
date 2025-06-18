@@ -1,1 +1,2 @@
-# Dalton-Resume
+# Welcome!
+This repository contains my resume and related professional documentation as a Technical Project Manager specializing in Application Governance, Cybersecurity, and Mobile Infrastructure. It serves as a centralized, version-controlled portfolio highlighting my experience managing cross-functional teams, driving secure software delivery, and leading enterprise-scale initiatives. You’ll find my resume, project overviews, certifications, and other materials that showcase my technical and leadership background.
